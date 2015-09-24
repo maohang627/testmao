@@ -23,6 +23,7 @@ import java.util.Set;
 public class ApkChannalizer {
 	public static List<ChannelInfo> channelList = new LinkedList<ChannelInfo>();
 	// 这个对应classpath的根目录下的文件，如：classes/AndroidConfig.properties
+	//sss
 	private static final String config = "AndroidConfig";
 
 	/** APK解压工具 */
